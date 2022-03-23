@@ -1,1 +1,1 @@
-University Library web site for students with django , python , html , css , javascript.
+University Library web site for students with (Django) python , html , css , javascript.
